@@ -86,4 +86,4 @@ Managed auth and Postgres, React UI, Redis cache, notifications, moderation, ide
 Cloud service boundaries, secure API design, object storage patterns, analytics design, testing failure paths, CI/CD.
 
 ## Author
-_Your name · GitHub · LinkedIn_
+`Piyush K. Ahirwar`· [GitHub](https://github.com/PiyushK-16) · [LinkedIn](https://www.linkedin.com/in/piyush-k-ahirwar-658633261)
